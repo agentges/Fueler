@@ -16,7 +16,7 @@ class MainActivity : ComponentActivity() {
         setContent {
             FuelerTheme {
                 Surface(modifier = Modifier.fillMaxSize(), color = MaterialTheme.colorScheme.background) {
-                    Text("Fueler")
+                    MainNavigation()
                 }
             }
         }
