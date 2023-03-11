@@ -15,4 +15,7 @@ dependencyResolutionManagement {
 rootProject.name = "Fueler"
 
 include(":app")
+include(":core-data")
+include(":core-database")
 include(":core-ui")
+include(":feature-refill")
