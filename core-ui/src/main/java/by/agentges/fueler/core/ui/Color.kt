@@ -1,4 +1,4 @@
-package by.agentges.fueler.ui.theme
+package by.agentges.fueler.core.ui
 
 import androidx.compose.ui.graphics.Color
 

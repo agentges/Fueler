@@ -15,3 +15,4 @@ dependencyResolutionManagement {
 rootProject.name = "Fueler"
 
 include(":app")
+include(":core-ui")
